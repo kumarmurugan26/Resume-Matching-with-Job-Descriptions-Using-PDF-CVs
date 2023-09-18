@@ -20,8 +20,8 @@
 - Rank CVs based on similarity scores.
 
 # Data Sources
-- Kaggle Resume Dataset ([Provide a link](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset))
-- Hugging Face Job Descriptions Dataset ([Provide a link](https://huggingface.co/datasets/jacob-hugging-face/job-descriptions/viewer/default/train?row=0))
+- Kaggle Resume Dataset ([link](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset))
+- Hugging Face Job Descriptions Dataset ([link](https://huggingface.co/datasets/jacob-hugging-face/job-descriptions/viewer/default/train?row=0))
 
 # Methodology
 - PDF extraction with PyPDF2 or PDFMiner.
