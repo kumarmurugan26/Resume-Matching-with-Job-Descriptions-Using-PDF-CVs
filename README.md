@@ -46,6 +46,7 @@ as a member of the google cloud team you inspire leading companies schools and g
 the google workspace team helps customers transform and evolve their business through the use of googles productivity collaboration and content management suite of applications as part of an entrepreneurial team in this growing business you will help shape the future of businesses use technology to connect with customers employees and partners
 as a google workspace sales specialist you will be responsible for maintenance and expansion of google workspace business growth across the region with customers in this role youll create and execute the strategy and provide unique insights on applying google workspace solutions to enterprisesyou will build an excellent pipeline and work with the account teams to build out the customer solution and establish partnerships you will strategize with partners to increase account and territory business growth you will work directly with customers coordinate internal resources and construct successful strategies at account and territory level
 google cloud accelerates organizations ability to digitally transform their business with the best infrastructure platform industry solutions and expertise we deliver enterprisegrade solutions that leverage googles cuttingedge technology  all on the cleanest cloud in the industry customers in more than  countries and territories turn to google cloud as their trusted partner to enable growth and solve their most critical business problems
+
 Top Resume 1: Similarity Score = 0.9500117301940918
 File Name: /content/data/data/CONSULTANT/51724595.pdf
 
@@ -74,6 +75,7 @@ customer experiences are driven through you and your partner team growing in an 
 
 qualifications
 a passion to help people understand how apple products can enrich their livesexcellent communication skills allowing you to be as comfortable in front of a small group as you are speaking with individuals years preferred working in a dynamic sales andor results driven environment as well as proven success developing customer loyaltyability to encourage a partner team and grow apple business
+
 Top Resume 1: Similarity Score = 0.9526113271713257
 File Name: /content/data/data/DIGITAL-MEDIA/16276121.pdf
 
@@ -106,6 +108,7 @@ key responsibilities
 help drive business by supporting licensing managers on tasks related to category management facilitating information between external and internal stakeholders and maintaining communication of product and partner planscoordinate with internal teams to gather and distribute brand and marketing updates to share out with licensing partnersmaintain and update title strategies with category licensing plans and activitycollaborate with licensing partners to obtain placement updates and distribute to internal business partnersassist licensing managers with compiling licensing recaps following product launches schedule meetings and when needed draft and distribute meeting recaps to respective business partnersprepare distribute and track deal memos and final agreements to ensure deals are processed efficiently through all stepswork with licensing managers to prepare onboarding for new licenseesfacilitate receipt of forecasts and send royalty payment reminders as neededpartner with creative teams to keep product development on track to attain commercial objectives
 what we need from you
 demonstrated  years of experience in preferably outbound licensing functionunderstanding of category manufacturing and sales cycle for toys andor food and beverage is preferredexperience working with reputable entertainment andor lifestyle brandsselfstarter motivated proactive and flexibleability to thrive under pressure in a fastpaced dynamic environmentpossess attention to details with superb organizational skillsmultitasker extraordinaire with ability to prioritizeexcellent communicator alignment with our company culture and values
+
 Top Resume 1: Similarity Score = 0.9407306909561157
 File Name: /content/data/data/BANKING/11773925.pdf
 
@@ -152,6 +155,7 @@ robert half puts you in the best position to succeed by advocating on your behal
 questions call your local office at  robert half will consider qualified applicants with criminal histories in a manner consistent with the requirements of the san francisco fair chance ordinance all applicants applying for us job openings must be legally authorized to work in the united states benefits are available to temporary professionals visit
 
   robert half an equal opportunity employer mfdisabilityveterans by clicking apply now youre agreeing to
+  
 Top Resume 1: Similarity Score = 0.941325843334198
 File Name: /content/data/data/TEACHER/37660306.pdf
 
@@ -218,6 +222,7 @@ why you want to work at trackfive
  the opportunity to work with a great group of people up to some very exciting things
  the opportunity to attend our epic annual holiday party
  trackfive is an equal opportunity employer
+ 
 Top Resume 1: Similarity Score = 0.9486981630325317
 File Name: /content/data/data/CONSULTANT/51724595.pdf
 
@@ -251,6 +256,7 @@ strong attention to design details typography ui etc
 translating designs responsively for multiple screen sizes
 familiarity with bootstrap or other similar frameworks
 wordpress knowledge and desire to learn is a major bonus
+
 Top Resume 1: Similarity Score = 0.9293685555458069
 File Name: /content/data/data/SALES/33236701.pdf
 
@@ -324,6 +330,7 @@ benefits
  companysponsored life insurance
 
 dont meet  of the qualifications above thats okay apply anyway 
+
 Top Resume 1: Similarity Score = 0.9472206830978394
 File Name: /content/data/data/CONSTRUCTION/22983516.pdf
 
@@ -385,6 +392,7 @@ what we have to offer
  generous paid time off
 
 we are an equal opportunity employer applicants are considered for position and are evaluated without regard to mental or physical disability race religion sexual orientation color gender national origin age marital status military or veteran status or any other protected local state or federal status unrelated to the performance of the work involved
+
 Top Resume 1: Similarity Score = 0.9506679177284241
 File Name: /content/data/data/CONSTRUCTION/22983516.pdf
 
@@ -479,6 +487,7 @@ youll work closely with the whole team in particular with elle creative strategi
 the starting salary range for this role is   we use a compensation formula that adjusts for experience
 
 applicants must be based in the us
+
 Top Resume 1: Similarity Score = 0.9469282627105713
 File Name: /content/data/data/CONSULTANT/51724595.pdf
 
@@ -541,6 +550,7 @@ covid vaccination gdit does not have a vaccination mandate applicable to all emp
 we are gdit the people supporting some of the most complex government defense and intelligence projects across the country we deliver bringing the expertise needed to understand and advance critical missions we transform shifting the ways clients invest in integrate and innovate technology solutions we ensure today is safe and tomorrow is smarter we are there on the ground beside our clients in the lab and everywhere in between offering the technology transformations strategy and mission services needed to get the job done
 
 gdit is an equal opportunityaffirmative action employer all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability or veteran status or any other protected class
+
 Top Resume 1: Similarity Score = 0.9514603614807129
 File Name: /content/data/data/INFORMATION-TECHNOLOGY/30223363.pdf
 
