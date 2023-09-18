@@ -1,5 +1,5 @@
 # Resume-Matching-with-Job-Descriptions-Using-PDF-CVs
-# Usage
+
 
 ## PDF Data Extraction
 - Download the Kaggle "resume dataset."
