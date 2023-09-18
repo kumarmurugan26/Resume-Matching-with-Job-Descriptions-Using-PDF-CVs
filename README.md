@@ -36,7 +36,7 @@
 # Results
 - the top 5 candidates for each job description based on the highest similarity scores.
 - The final output = 
-- Company Name: Google
+ Company Name: Google
 Job Description: minimum qualifications
 bachelors degree or equivalent practical experience years of experience in saas or productivity tools businessexperience managing enterprise accounts with sales cycles
 preferred qualifications
